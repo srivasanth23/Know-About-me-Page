@@ -1,0 +1,134 @@
+.portfolio-about-me {
+    background-color: #323f4b;
+    background-size: cover;
+}
+
+.rad {
+    color: #cced00;
+    font-size: 23px;
+}
+
+.about-me {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 22px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.image-resizer {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.para {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.portfolio-skills {
+    background-color: #1f2933;
+    background-size: cover;
+}
+
+.card-box {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+
+.icon {
+    width: 64px;
+    height: 64px;
+}
+
+.rad-heading {
+    color: #cced00;
+    font-size: 22px;
+}
+
+.bg-color {
+    background-color: #3e4c59;
+    background-size: cover;
+}
+
+.white-heading {
+    color: white;
+    font-size: 30px;
+}
+
+.card {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.card-heading {
+    color: white;
+    font-size: 25px;
+}
+
+.design-name {
+    color: #9aa5b1;
+}
+
+.card-para {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+.read-more-link {
+    color: #cced00;
+}
+
+.for-more-link {
+    color: #cced00;
+    font-size: 22px;
+}
+
+.services-icon {
+    width: 100px;
+    height: 100px;
+}
+
+.card-heading {
+    color: white;
+    font-size: 25px;
+}
+
+.card-para {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+.footer-section-bg {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.footer-image-resizer {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+}
+
+.footer-icon-color {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.footer-foot-section-bg {
+    background-color: #001c32;
+    background-size: cover;
+}
+
+.copyright-para {
+    color: #9aa5b1;
+    font-size: 11px;
+}
